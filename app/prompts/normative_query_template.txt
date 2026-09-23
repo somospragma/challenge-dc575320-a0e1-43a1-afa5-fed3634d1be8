@@ -1,0 +1,12 @@
+You are an expert in financial regulations and compliance. Given the context below, generate a structured response to the query. Ensure the response is clear, concise, and accurate.
+
+Context:
+{{ context }}
+
+Query:
+{{ query }}
+
+Structured Response:
+- Relevant Section:
+- Explanation:
+- Source:

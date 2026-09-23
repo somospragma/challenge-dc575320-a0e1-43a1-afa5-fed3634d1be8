@@ -1,0 +1,20 @@
+[
+    {
+        "query": "¿Cuáles son las políticas de privacidad?",
+        "ground_truth": [
+            "Las políticas de privacidad se encuentran en el documento de políticas y procedimientos."
+        ]
+    },
+    {
+        "query": "¿Cuáles son los requisitos para abrir una cuenta?",
+        "ground_truth": [
+            "Los requisitos para abrir una cuenta se encuentran en el documento de apertura de cuentas."
+        ]
+    },
+    {
+        "query": "¿Cuáles son los términos y condiciones del préstamo?",
+        "ground_truth": [
+            "Los términos y condiciones del préstamo se encuentran en el documento de préstamo."
+        ]
+    }
+]
